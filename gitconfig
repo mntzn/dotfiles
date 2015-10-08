@@ -2,6 +2,7 @@
 	name = some user
 	email = change@me.com
 [core]
+  excludesfile = /Users/$USER/.gitignore_global
 	editor = vim
 [push]
 	default = simple

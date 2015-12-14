@@ -28,8 +28,10 @@ Thumbs.db
 desktop.ini
 
 *.bak
-*.swp
 *.sw[a-z]
+
+*.pyc
+
 
 .classpath
 .project

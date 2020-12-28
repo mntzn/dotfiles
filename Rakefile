@@ -5,7 +5,7 @@
 
 #require_relative 'config/application'
 
-Rails.application.load_tasks
+# Rails.application.load_tasks
 
 if ENV['GENERATE_REPORTS'] == 'true'
   require 'ci/reporter/rake/rspec'
